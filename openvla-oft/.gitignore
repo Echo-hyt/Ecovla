@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+
+logs/
+experiments/logs/
+kernel_traces/
+torch_compile_debug/
+triton_cache/
+inductor_debug/

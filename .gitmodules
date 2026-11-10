@@ -1,0 +1,4 @@
+[submodule "openvla-oft/transformers-openvla-oft"]
+	path = openvla-oft/transformers-openvla-oft
+	url = https://github.com/Zhipeng-Tang/transformers-openvla-oft.git
+	branch = vla-dynamic-pruning

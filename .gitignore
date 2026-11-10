@@ -1,0 +1,9 @@
+openvla-oft/rollouts/*
+
+__pycache__/
+
+*.egg-info/
+*.egg
+develop-eggs/
+eggs/
+.eggs/
